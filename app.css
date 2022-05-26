@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&family=Bitter&display=swap');
+
+body {
+    background-image: url(images/Croppedbackground.JPG);
+    background-size: 100%;
+    /* background-repeat: no-repeat; */
+}
+
+main {
+    text-align: center;
+}
+
+.CatchEm {
+    width: 300px;
+}
+
+.loading {
+    width: 150px;
+}
+
+.hidden {
+    display: none;
+}
+
+.pokemon {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 23%;
+    margin-left: 23%;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 130%;
+    text-decoration: none;
+}
